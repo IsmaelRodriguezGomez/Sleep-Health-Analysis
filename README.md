@@ -6,7 +6,7 @@ El proyecto **"Sleep Health and Lifestyle Analysis"** analiza la relación entre
 
 ## Enlace a la aplicación web
 
-Puedes ver la aplicación en vivo [aquí](http://34.213.21).
+Puedes ver la aplicación en vivo [aquí](http://localhost:8501/).
 
 ## Dataset
 
