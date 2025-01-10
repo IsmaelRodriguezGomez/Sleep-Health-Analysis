@@ -7,7 +7,7 @@ El proyecto **"Sleep Health and Lifestyle Analysis"** analiza la relación entre
 ## Enlace a la aplicación web
 
 Puedes ver la aplicación en vivo [aquí](http://localhost:8501/).
-
+Versión externa (Render): [https://sleep-health-analysis.onrender.com](https://sleep-health-analysis.onrender.com)
 ## Dataset
 
 El dataset proviene de Kaggle y contiene información sobre sueño, estrés y actividad física. Puedes descargarlo [aquí](https://www.kaggle.com/datasets/siamaktahmasbi/insights-into-sleep-patterns-and-daily-habits?resource=download).
